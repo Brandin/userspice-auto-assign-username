@@ -1,6 +1,6 @@
 <?php
 
-global $validation, $settings, $fname, $lname, $email;
+global $validation, $settings, $fname, $lname, $email, $username;
 $validation->check($_POST, [
   'fname' => [
         'display' => lang('GEN_FNAME'),
