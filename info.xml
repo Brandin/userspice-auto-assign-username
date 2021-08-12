@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>Auto Assign Usernames</name>
+  <author>Brandin Arsenault</author>
+  <website>https://github.com/Brandin/userspice-auto-assign-username</website>
+  <version>1.0.0</version>
+  <release>August 12, 2021</release>
+  <tested>5.3.4</tested>
+  <description>This plugin will hide the username field on the join page and auto assign usernames.</description>
+  <button></button>
+</plugin>
